@@ -10,7 +10,7 @@
 
 <h3 align="left">Visit my new page!</h3>
 <p align="left">
-<a href="https://my-web-page-isaay.vercel.app/" target="blank"><img align="center" Come on!</a>
+<a href="https://my-web-page-isaay.vercel.app/" target="blank"> Come on! </a>
 
 </p>
 
