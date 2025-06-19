@@ -4,12 +4,6 @@
 
 - 🔭 I’m currently working
 
-- 🌱 I’m currently taking the Google Cloud Platform Certification.
-
-
-<h3 align="left">Visit my new page!</h3>
-<p align="left">
-<a href="https://my-web-page-isaay.vercel.app/" target="blank"> Come on! </a>
-
+- 🌱 I’m currently taking the Google Cloud Platform and Amazon Web Services Certification.
 </p>
 
